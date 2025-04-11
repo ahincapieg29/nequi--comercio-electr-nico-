@@ -27,7 +27,7 @@ En un escenario productivo, se espera que los eventos se capturen en tiempo casi
 **Campos principales:**
 
 - `event_time`: Fecha y hora del evento  
-- `event_type`: Tipo de evento (`view`, `cart`, `remove_from_cart`, `purchase`)  
+- `event_type`: Tipo de evento
 - `product_id`: ID del producto  
 - `category_id`: ID de la categoría  
 - `category_code`: Categoría específica del producto  
