@@ -693,10 +693,6 @@ if __name__ == "__main__":
 | `day_of_week`    | `fact_user_events`   | int        | Día de la semana (1=domingo, 7=sábado)                      |
 | `event_date`     | Todas                | date       | Fecha del evento (para particionado)                        |
 
-
----
-Muy bien, este **Paso 5** es clave para mostrar tu **capacidad de abstracción, diseño para escalabilidad** y pensamiento arquitectónico. Ya tienes los cuatro escenarios que Nequi pide, y están bien cubiertos. Ahora te propongo una **versión mejorada y más desarrollada**, con una redacción más técnica, profesional y visualmente clara, que aporte contexto, decisiones justificadas y posibles tecnologías específicas.
-
 ---
 
 # 🧩 Paso 5: Redacción Final y Escenarios de Escalabilidad
